@@ -3,6 +3,9 @@
   "compilerOptions": {
     "module": "commonjs",
     "isolatedModules": false,
-    "types": ["node"]
+    "types": [
+      "node"
+    ],
+    "baseUrl": "http://localhost:3000/"
   }
 }
